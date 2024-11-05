@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin_andes\\source\\repos\\PruebaTecnicaAE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4E20588F-3A50-43BE-A8B5-C20AF96775F4}|PruebaTecnicaAE\\PruebaTecnicaAE.csproj|c:\\users\\admin_andes\\source\\repos\\pruebatecnicaae\\pruebatecnicaae\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E20588F-3A50-43BE-A8B5-C20AF96775F4}|PruebaTecnicaAE\\PruebaTecnicaAE.csproj|solutionrelative:pruebatecnicaae\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E20588F-3A50-43BE-A8B5-C20AF96775F4}|PruebaTecnicaAE\\PruebaTecnicaAE.csproj|c:\\users\\admin_andes\\source\\repos\\pruebatecnicaae\\pruebatecnicaae\\models\\entities\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E20588F-3A50-43BE-A8B5-C20AF96775F4}|PruebaTecnicaAE\\PruebaTecnicaAE.csproj|solutionrelative:pruebatecnicaae\\models\\entities\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E20588F-3A50-43BE-A8B5-C20AF96775F4}|PruebaTecnicaAE\\PruebaTecnicaAE.csproj|c:\\users\\admin_andes\\source\\repos\\pruebatecnicaae\\pruebatecnicaae\\models\\entities\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E20588F-3A50-43BE-A8B5-C20AF96775F4}|PruebaTecnicaAE\\PruebaTecnicaAE.csproj|solutionrelative:pruebatecnicaae\\models\\entities\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\admin_andes\\source\\repos\\PruebaTecnicaAE\\PruebaTecnicaAE\\Models\\Entities\\Cliente.cs",
+              "RelativeDocumentMoniker": "PruebaTecnicaAE\\Models\\Entities\\Cliente.cs",
+              "ToolTip": "C:\\Users\\admin_andes\\source\\repos\\PruebaTecnicaAE\\PruebaTecnicaAE\\Models\\Entities\\Cliente.cs",
+              "RelativeToolTip": "PruebaTecnicaAE\\Models\\Entities\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T21:56:21.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClienteController.cs",
+              "DocumentMoniker": "C:\\Users\\admin_andes\\source\\repos\\PruebaTecnicaAE\\PruebaTecnicaAE\\Controllers\\ClienteController.cs",
+              "RelativeDocumentMoniker": "PruebaTecnicaAE\\Controllers\\ClienteController.cs",
+              "ToolTip": "C:\\Users\\admin_andes\\source\\repos\\PruebaTecnicaAE\\PruebaTecnicaAE\\Controllers\\ClienteController.cs",
+              "RelativeToolTip": "PruebaTecnicaAE\\Controllers\\ClienteController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T20:19:36.174Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Carro.cs",
+              "DocumentMoniker": "C:\\Users\\admin_andes\\source\\repos\\PruebaTecnicaAE\\PruebaTecnicaAE\\Models\\Entities\\Carro.cs",
+              "RelativeDocumentMoniker": "PruebaTecnicaAE\\Models\\Entities\\Carro.cs",
+              "ToolTip": "C:\\Users\\admin_andes\\source\\repos\\PruebaTecnicaAE\\PruebaTecnicaAE\\Models\\Entities\\Carro.cs",
+              "RelativeToolTip": "PruebaTecnicaAE\\Models\\Entities\\Carro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T21:56:05.175Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
