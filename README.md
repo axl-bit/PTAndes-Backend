@@ -1,5 +1,4 @@
 # Instrucciones: 
-###creación
 Se recomienda usar el gestor de paquetes y cambiar la conexion de a base de datos en el apardado de "appsettings.json".
 comandos para migracion:
 - add-migration "cargando primera migracion"
