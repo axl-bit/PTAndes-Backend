@@ -1,18 +1,38 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\admin_andes\\source\\repos\\PruebaTecnicaAE\\",
+  "WorkspaceRootPath": "C:\\Users\\avill\\OneDrive\\Escritorio\\proyectos\\c#\\Backend-PT-Andes\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4E20588F-3A50-43BE-A8B5-C20AF96775F4}|PruebaTecnicaAE\\PruebaTecnicaAE.csproj|c:\\users\\admin_andes\\source\\repos\\pruebatecnicaae\\pruebatecnicaae\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4E20588F-3A50-43BE-A8B5-C20AF96775F4}|PruebaTecnicaAE\\PruebaTecnicaAE.csproj|c:\\users\\avill\\onedrive\\escritorio\\proyectos\\c#\\backend-pt-andes\\pruebatecnicaae\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4E20588F-3A50-43BE-A8B5-C20AF96775F4}|PruebaTecnicaAE\\PruebaTecnicaAE.csproj|solutionrelative:pruebatecnicaae\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E20588F-3A50-43BE-A8B5-C20AF96775F4}|PruebaTecnicaAE\\PruebaTecnicaAE.csproj|c:\\users\\avill\\onedrive\\escritorio\\proyectos\\c#\\backend-pt-andes\\pruebatecnicaae\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4E20588F-3A50-43BE-A8B5-C20AF96775F4}|PruebaTecnicaAE\\PruebaTecnicaAE.csproj|solutionrelative:pruebatecnicaae\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4E20588F-3A50-43BE-A8B5-C20AF96775F4}|PruebaTecnicaAE\\PruebaTecnicaAE.csproj|c:\\users\\admin_andes\\source\\repos\\pruebatecnicaae\\pruebatecnicaae\\models\\entities\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4E20588F-3A50-43BE-A8B5-C20AF96775F4}|PruebaTecnicaAE\\PruebaTecnicaAE.csproj|c:\\users\\avill\\onedrive\\escritorio\\proyectos\\c#\\backend-pt-andes\\pruebatecnicaae\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E20588F-3A50-43BE-A8B5-C20AF96775F4}|PruebaTecnicaAE\\PruebaTecnicaAE.csproj|solutionrelative:pruebatecnicaae\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E20588F-3A50-43BE-A8B5-C20AF96775F4}|PruebaTecnicaAE\\PruebaTecnicaAE.csproj|c:\\users\\avill\\onedrive\\escritorio\\proyectos\\c#\\backend-pt-andes\\pruebatecnicaae\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E20588F-3A50-43BE-A8B5-C20AF96775F4}|PruebaTecnicaAE\\PruebaTecnicaAE.csproj|solutionrelative:pruebatecnicaae\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E20588F-3A50-43BE-A8B5-C20AF96775F4}|PruebaTecnicaAE\\PruebaTecnicaAE.csproj|c:\\users\\avill\\onedrive\\escritorio\\proyectos\\c#\\backend-pt-andes\\pruebatecnicaae\\models\\entities\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E20588F-3A50-43BE-A8B5-C20AF96775F4}|PruebaTecnicaAE\\PruebaTecnicaAE.csproj|solutionrelative:pruebatecnicaae\\models\\entities\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E20588F-3A50-43BE-A8B5-C20AF96775F4}|PruebaTecnicaAE\\PruebaTecnicaAE.csproj|c:\\users\\avill\\onedrive\\escritorio\\proyectos\\c#\\backend-pt-andes\\pruebatecnicaae\\models\\dto\\clientedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E20588F-3A50-43BE-A8B5-C20AF96775F4}|PruebaTecnicaAE\\PruebaTecnicaAE.csproj|solutionrelative:pruebatecnicaae\\models\\dto\\clientedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E20588F-3A50-43BE-A8B5-C20AF96775F4}|PruebaTecnicaAE\\PruebaTecnicaAE.csproj|c:\\users\\avill\\onedrive\\escritorio\\proyectos\\c#\\backend-pt-andes\\pruebatecnicaae\\models\\entities\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4E20588F-3A50-43BE-A8B5-C20AF96775F4}|PruebaTecnicaAE\\PruebaTecnicaAE.csproj|solutionrelative:pruebatecnicaae\\models\\entities\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4E20588F-3A50-43BE-A8B5-C20AF96775F4}|PruebaTecnicaAE\\PruebaTecnicaAE.csproj|c:\\users\\admin_andes\\source\\repos\\pruebatecnicaae\\pruebatecnicaae\\models\\entities\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E20588F-3A50-43BE-A8B5-C20AF96775F4}|PruebaTecnicaAE\\PruebaTecnicaAE.csproj|solutionrelative:pruebatecnicaae\\models\\entities\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4E20588F-3A50-43BE-A8B5-C20AF96775F4}|PruebaTecnicaAE\\PruebaTecnicaAE.csproj|c:\\users\\avill\\onedrive\\escritorio\\proyectos\\c#\\backend-pt-andes\\pruebatecnicaae\\controllers\\carrocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E20588F-3A50-43BE-A8B5-C20AF96775F4}|PruebaTecnicaAE\\PruebaTecnicaAE.csproj|solutionrelative:pruebatecnicaae\\controllers\\carrocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,51 +42,116 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Cliente.cs",
-              "DocumentMoniker": "C:\\Users\\admin_andes\\source\\repos\\PruebaTecnicaAE\\PruebaTecnicaAE\\Models\\Entities\\Cliente.cs",
-              "RelativeDocumentMoniker": "PruebaTecnicaAE\\Models\\Entities\\Cliente.cs",
-              "ToolTip": "C:\\Users\\admin_andes\\source\\repos\\PruebaTecnicaAE\\PruebaTecnicaAE\\Models\\Entities\\Cliente.cs",
-              "RelativeToolTip": "PruebaTecnicaAE\\Models\\Entities\\Cliente.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T21:56:21.719Z",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\avill\\OneDrive\\Escritorio\\proyectos\\c#\\Backend-PT-Andes\\PruebaTecnicaAE\\appsettings.json",
+              "RelativeDocumentMoniker": "PruebaTecnicaAE\\appsettings.json",
+              "ToolTip": "C:\\Users\\avill\\OneDrive\\Escritorio\\proyectos\\c#\\Backend-PT-Andes\\PruebaTecnicaAE\\appsettings.json",
+              "RelativeToolTip": "PruebaTecnicaAE\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-07T04:52:03.358Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ClienteController.cs",
-              "DocumentMoniker": "C:\\Users\\admin_andes\\source\\repos\\PruebaTecnicaAE\\PruebaTecnicaAE\\Controllers\\ClienteController.cs",
-              "RelativeDocumentMoniker": "PruebaTecnicaAE\\Controllers\\ClienteController.cs",
-              "ToolTip": "C:\\Users\\admin_andes\\source\\repos\\PruebaTecnicaAE\\PruebaTecnicaAE\\Controllers\\ClienteController.cs",
-              "RelativeToolTip": "PruebaTecnicaAE\\Controllers\\ClienteController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAcAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\avill\\OneDrive\\Escritorio\\proyectos\\c#\\Backend-PT-Andes\\PruebaTecnicaAE\\Program.cs",
+              "RelativeDocumentMoniker": "PruebaTecnicaAE\\Program.cs",
+              "ToolTip": "C:\\Users\\avill\\OneDrive\\Escritorio\\proyectos\\c#\\Backend-PT-Andes\\PruebaTecnicaAE\\Program.cs",
+              "RelativeToolTip": "PruebaTecnicaAE\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T20:19:36.174Z",
+              "WhenOpened": "2024-11-07T04:54:11.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\avill\\OneDrive\\Escritorio\\proyectos\\c#\\Backend-PT-Andes\\PruebaTecnicaAE\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "PruebaTecnicaAE\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\avill\\OneDrive\\Escritorio\\proyectos\\c#\\Backend-PT-Andes\\PruebaTecnicaAE\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "PruebaTecnicaAE\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T04:32:30.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Carro.cs",
+              "DocumentMoniker": "C:\\Users\\avill\\OneDrive\\Escritorio\\proyectos\\c#\\Backend-PT-Andes\\PruebaTecnicaAE\\Models\\Entities\\Carro.cs",
+              "RelativeDocumentMoniker": "PruebaTecnicaAE\\Models\\Entities\\Carro.cs",
+              "ToolTip": "C:\\Users\\avill\\OneDrive\\Escritorio\\proyectos\\c#\\Backend-PT-Andes\\PruebaTecnicaAE\\Models\\Entities\\Carro.cs",
+              "RelativeToolTip": "PruebaTecnicaAE\\Models\\Entities\\Carro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T21:56:05.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CarroController.cs",
+              "DocumentMoniker": "C:\\Users\\avill\\OneDrive\\Escritorio\\proyectos\\c#\\Backend-PT-Andes\\PruebaTecnicaAE\\Controllers\\CarroController.cs",
+              "RelativeDocumentMoniker": "PruebaTecnicaAE\\Controllers\\CarroController.cs",
+              "ToolTip": "C:\\Users\\avill\\OneDrive\\Escritorio\\proyectos\\c#\\Backend-PT-Andes\\PruebaTecnicaAE\\Controllers\\CarroController.cs",
+              "RelativeToolTip": "PruebaTecnicaAE\\Controllers\\CarroController.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAwwDUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T02:48:58.178Z",
               "EditorCaption": ""
             }
           ]
         },
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Carro.cs",
-              "DocumentMoniker": "C:\\Users\\admin_andes\\source\\repos\\PruebaTecnicaAE\\PruebaTecnicaAE\\Models\\Entities\\Carro.cs",
-              "RelativeDocumentMoniker": "PruebaTecnicaAE\\Models\\Entities\\Carro.cs",
-              "ToolTip": "C:\\Users\\admin_andes\\source\\repos\\PruebaTecnicaAE\\PruebaTecnicaAE\\Models\\Entities\\Carro.cs",
-              "RelativeToolTip": "PruebaTecnicaAE\\Models\\Entities\\Carro.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\avill\\OneDrive\\Escritorio\\proyectos\\c#\\Backend-PT-Andes\\PruebaTecnicaAE\\Models\\Entities\\Cliente.cs",
+              "RelativeDocumentMoniker": "PruebaTecnicaAE\\Models\\Entities\\Cliente.cs",
+              "ToolTip": "C:\\Users\\avill\\OneDrive\\Escritorio\\proyectos\\c#\\Backend-PT-Andes\\PruebaTecnicaAE\\Models\\Entities\\Cliente.cs",
+              "RelativeToolTip": "PruebaTecnicaAE\\Models\\Entities\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T21:56:05.175Z",
+              "WhenOpened": "2024-11-07T02:22:22.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ClienteDto.cs",
+              "DocumentMoniker": "C:\\Users\\avill\\OneDrive\\Escritorio\\proyectos\\c#\\Backend-PT-Andes\\PruebaTecnicaAE\\Models\\DTO\\ClienteDto.cs",
+              "RelativeDocumentMoniker": "PruebaTecnicaAE\\Models\\DTO\\ClienteDto.cs",
+              "ToolTip": "C:\\Users\\avill\\OneDrive\\Escritorio\\proyectos\\c#\\Backend-PT-Andes\\PruebaTecnicaAE\\Models\\DTO\\ClienteDto.cs",
+              "RelativeToolTip": "PruebaTecnicaAE\\Models\\DTO\\ClienteDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T03:56:45.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClienteController.cs",
+              "DocumentMoniker": "C:\\Users\\avill\\OneDrive\\Escritorio\\proyectos\\c#\\Backend-PT-Andes\\PruebaTecnicaAE\\Controllers\\ClienteController.cs",
+              "RelativeDocumentMoniker": "PruebaTecnicaAE\\Controllers\\ClienteController.cs",
+              "ToolTip": "C:\\Users\\avill\\OneDrive\\Escritorio\\proyectos\\c#\\Backend-PT-Andes\\PruebaTecnicaAE\\Controllers\\ClienteController.cs",
+              "RelativeToolTip": "PruebaTecnicaAE\\Controllers\\ClienteController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T03:07:48.621Z",
               "EditorCaption": ""
             }
           ]

@@ -4479,19 +4479,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\admin_andes\\.nuget\\packages\\": {}
+    "C:\\Users\\avill\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\admin_andes\\source\\repos\\PruebaTecnicaAE\\PruebaTecnicaAE\\PruebaTecnicaAE.csproj",
+      "projectUniqueName": "C:\\Users\\avill\\OneDrive\\Escritorio\\proyectos\\c#\\Backend-PT-Andes\\PruebaTecnicaAE\\PruebaTecnicaAE.csproj",
       "projectName": "PruebaTecnicaAE",
-      "projectPath": "C:\\Users\\admin_andes\\source\\repos\\PruebaTecnicaAE\\PruebaTecnicaAE\\PruebaTecnicaAE.csproj",
-      "packagesPath": "C:\\Users\\admin_andes\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\admin_andes\\source\\repos\\PruebaTecnicaAE\\PruebaTecnicaAE\\obj\\",
+      "projectPath": "C:\\Users\\avill\\OneDrive\\Escritorio\\proyectos\\c#\\Backend-PT-Andes\\PruebaTecnicaAE\\PruebaTecnicaAE.csproj",
+      "packagesPath": "C:\\Users\\avill\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\avill\\OneDrive\\Escritorio\\proyectos\\c#\\Backend-PT-Andes\\PruebaTecnicaAE\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\admin_andes\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\avill\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
